@@ -1,6 +1,7 @@
-# CSE 353 (Machine Learning -- SBU -- Spring 2019) Code 
-### Due Date: 04/24/2019, Wednesday
+# Decision Tree Full Implementation -- ID3 Algorithm
 ---
+The dataset is titanic.csv
+
 ## How to run the code:
 For all versions, be sure to include the `--dataset` tag and indicate the path to the CSV file containing the data like so `--dataset /data/set/path/filename.csv`.
 
